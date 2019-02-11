@@ -5,7 +5,7 @@ main.remove()
 const newHeader = document.createElement('h1')
 newHeader.innerText = "Carla is a cool person"
 document.body.appendChild("h1")
-
+newHeader.appendChild
 
 // for (let i = 0; i < 3; i++) {
 //   let victory = 
