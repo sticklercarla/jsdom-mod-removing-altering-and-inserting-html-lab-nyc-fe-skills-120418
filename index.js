@@ -2,10 +2,10 @@
 const main = document.querySelector('main')
 main.remove()
 /* Create your new element here and assign it to newHeader */
-const newHeader = document.createElement('h1')
+const newHeader = document.createElement('h1.id = victory')
 newHeader.innerText = "Carla is a cool person"
 document.body.appendChild("h1")
-document.body.h1.id = "victory"
+
 
 // for (let i = 0; i < 3; i++) {
 //   let victory = 
