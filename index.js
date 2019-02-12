@@ -3,7 +3,7 @@ const main = document.querySelector('main')
 main.remove()
 /* Create your new element here and assign it to newHeader */
 const newHeader = document.createElement('h1')
-newHeader.createAt
+newHeader.setAttribute('id', )
 newHeader.innerText = "Carla is a cool person"
 document.body.appendChild("h1")
 
