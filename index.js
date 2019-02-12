@@ -4,7 +4,7 @@ main.remove()
 /* Create your new element here and assign it to newHeader */
 const newHeader = document.createElement('h1')
 newHeader.setAttribute('id', 'victory')
-newHeader.innerText = "Carla is a cool person"
+newHeader.innerText = "Carla "is the champion"
 document.body.appendChild("h1")
 
 
